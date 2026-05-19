@@ -1,0 +1,15 @@
+langdetect
+sounddevice
+numpy
+scipy
+python-docx
+pypdf
+pywin32
+piper-tts
+paddleocr
+paddlepaddle
+pymupdf
+pillow
+opencv-python-headless
+torch
+torchvision

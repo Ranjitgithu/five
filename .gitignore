@@ -1,0 +1,62 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# SQLite / DB
+*.db
+*.sqlite3
+
+# Temporary Files
+temp/
+tmp/
+
+# Model Cache
+.cache/
+
+# Node Modules (if frontend exists)
+node_modules/
+
+# Audio / Generated Output
+outputs/
+recordings/
+generated/
+
+# Large Model Files (optional)
+*.onnx
+*.bin
+*.pt
+*.pth
+
+# Git
+.git/
