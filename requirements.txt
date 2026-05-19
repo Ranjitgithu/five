@@ -13,3 +13,5 @@ pillow
 opencv-python-headless
 torch
 torchvision
+
+#hi these is my tts project
