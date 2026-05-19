@@ -60,3 +60,9 @@ generated/
 
 # Git
 .git/
+
+
+models/
+*.onnx
+*.pt
+*.pth
